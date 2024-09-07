@@ -38,8 +38,9 @@ status-website:
   navbar:
     - title: Status
       href: /upptime
-    # - title: GitHub
-    #   href: https://github.com/$OWNER/$REPO
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+      target: _blank
 
 # workflowSchedule:
 #   graphs: "0 0 * * *"
