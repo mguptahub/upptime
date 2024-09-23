@@ -76,7 +76,7 @@
     "url": "https://prime.plane.so",
     "icon": "https://icons.duckduckgo.com/ip3/prime.plane.so.ico",
     "slug": "plane-prime",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 300,
     "timeMonth": 286,
     "timeYear": 286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-23": 0
+    }
   },
   {
     "name": "Plane Disco",
@@ -95,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/disco.plane.so.ico",
     "slug": "plane-disco",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 269,
     "timeDay": 168,
     "timeWeek": 260,
     "timeMonth": 269,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2024-09-23": 0
+      "2024-09-23": 9
     }
   }
 ]
