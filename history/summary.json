@@ -58,18 +58,20 @@
     "url": "https://api.plane.so",
     "icon": "https://icons.duckduckgo.com/ip3/api.plane.so.ico",
     "slug": "plane-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 71,
-    "timeWeek": 167,
-    "timeMonth": 232,
-    "timeYear": 221,
-    "dailyMinutesDown": {}
+    "time": 223,
+    "timeDay": 202,
+    "timeWeek": 183,
+    "timeMonth": 235,
+    "timeYear": 223,
+    "dailyMinutesDown": {
+      "2024-10-17": 0
+    }
   },
   {
     "name": "Plane Prime",
