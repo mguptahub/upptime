@@ -4,19 +4,19 @@
     "url": "https://www.plane.so",
     "icon": "https://icons.duckduckgo.com/ip3/www.plane.so.ico",
     "slug": "plane-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 394,
-    "timeWeek": 473,
-    "timeMonth": 588,
-    "timeYear": 574,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 647,
+    "timeDay": 2566,
+    "timeWeek": 1006,
+    "timeMonth": 722,
+    "timeYear": 647,
     "dailyMinutesDown": {
-      "2024-10-28": 1
+      "2024-10-28": 14
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://docs.plane.so",
     "icon": "https://icons.duckduckgo.com/ip3/docs.plane.so.ico",
     "slug": "plane-docs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 138,
-    "timeWeek": 143,
-    "timeMonth": 193,
-    "timeYear": 244,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 241,
+    "timeDay": 113,
+    "timeWeek": 136,
+    "timeMonth": 190,
+    "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-10-28": 1
+      "2024-10-28": 14
     }
   },
   {
